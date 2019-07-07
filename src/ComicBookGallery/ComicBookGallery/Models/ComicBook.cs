@@ -8,7 +8,7 @@
 
         public int IssueNumber { get; set; }
 
-        public string DescriptionHtmlk { get; set; }
+        public string DescriptionHtml { get; set; }
 
         public Artist[] Artists { get; set; }
 
